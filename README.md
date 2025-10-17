@@ -1,22 +1,16 @@
-<h1 align="left">Hi there 👋</h1>
+# Hi there 👋
 
-###
+I'm Lukas Breuer, a 21 y/o full stack software developer from Germany.
 
-<p align="left">I'm Lukas Breuer, a 21 y/o full stack software developer from Germany.</p>
+- 📚 I'm currently studying computer science in Bonn, Germany
+- 👨‍💻 All of my projects are available at <a href="lukasbreuer.de">lukasbreuer.de</a>
+- 📫 How to reach me: contact@lukasbreuer.de
+- 💬 Ask me about anything <a href="https://github.com/breuerlukas/breuerlukas/issues">here</a>
+- ⚡ Fun fact: I ❤️ automation
 
-###
+### Stack
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently studying <b>computer science</b> in Bonn, Germany<br>📫 How to reach me: <b>contact@lukasbreuer.de</b><br>💬 Ask me about anything <b><a href="https://github.com/breuerlukas/breuerlukas/issues">here</a></b></p>
-
-###
-
-<br>
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
@@ -32,4 +26,11 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+### Stats
+
+<div align="start" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=breuerlukas&" alt="breuerlukas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breuerlukas&show_icons=true&locale=en&layout=compact" alt="breuerlukas" height="150" />
 </div>
