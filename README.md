@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying <b>computer science</b> in Bonn, Germany<br>❤️ I love <b>automation</b><br>📫 How to reach me: <b>contact@lukasbreuer.de</b><br>💬 Ask me about anything <b><a href="https://github.com/breuerlukas/breuerlukas/issues">here</a></b></p>
+<p align="left">📚 I'm currently studying <b>computer science</b> in Bonn, Germany<br>📫 How to reach me: <b>contact@lukasbreuer.de</b><br>💬 Ask me about anything <b><a href="https://github.com/breuerlukas/breuerlukas/issues">here</a></b></p>
 
 ###
 
