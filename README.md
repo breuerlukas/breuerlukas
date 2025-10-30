@@ -31,6 +31,5 @@ I'm Lukas Breuer, a 21 y/o full stack software developer from Germany.
 ### Stats
 
 <div align="start" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=breuerlukas&" alt="breuerlukas" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breuerlukas&show_icons=true&locale=en&layout=compact" alt="breuerlukas" height="150" />
 </div>
