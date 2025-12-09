@@ -27,9 +27,3 @@ I'm Lukas Breuer, a 21 y/o full stack software developer from Germany.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
-### Stats
-
-<div align="start" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breuerlukas&show_icons=true&locale=en&layout=compact" alt="breuerlukas" height="150" />
-</div>
